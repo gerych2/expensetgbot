@@ -1,4 +1,3 @@
-# tips.py
 import random
 
 TIPS = [
